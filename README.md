@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn how to solve code problems
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on projects for beginners
-- 📫 How to reach me: www.linkedin.com.br/ogoidmp
+- 📫 How to reach me: www.linkedin.com/in/ogoidmp
 - 
 <!---
 ogoidmptryber/ogoidmptryber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
