@@ -4,7 +4,9 @@ Hi 👋 My name is Diogo Martini Pantaleao
 Web Developer Full Stack
 ------------------------
 
-Estou aprendendo codar a um ano e meio. Comecei com JavaScript, HTML, CSS e estou sempre me atualizando com as ferramentas essenciais como o Node.Js, GitHub, VsCode, Docker, My\_Sql, e tudo mais, afim de adquirir um conhecimento pleno de um desenvolvedor full stack. Tenho experiencias profissionais dando apoio como service desk e infraestrututra basica em geral. Desde 2000 apaixonado por tecnologia e aprendendo um pouco mais a cada dia. I've been learning to code for a year and a half. I started with JavaScript, HTML, CSS and I'm always updating myself with essential tools like Node.Js, GitHub, VsCode, Docker, My\_Sql, and everything else, in order to acquire a full knowledge of a full stack developer. I have professional experiences giving support as a service desk and basic infrastructure in general. Since 2000 passionate about technology and learning a little more every day.
+Estou aprendendo codar a um ano e meio. Comecei com JavaScript, HTML, CSS e estou sempre me atualizando com as ferramentas essenciais como o Node.Js, GitHub, VsCode, Docker, My\_Sql, e tudo mais, afim de adquirir um conhecimento pleno de um desenvolvedor full stack. Tenho experiencias profissionais dando apoio como service desk e infraestrututra basica em geral. Desde 2000 apaixonado por tecnologia e aprendendo um pouco mais a cada dia. 
+
+I've been learning to code for a year and a half. I started with JavaScript, HTML, CSS and I'm always updating myself with essential tools like Node.Js, GitHub, VsCode, Docker, My\_Sql, and everything else, in order to acquire a full knowledge of a full stack developer. I have professional experiences giving support as a service desk and basic infrastructure in general. Since 2000 passionate about technology and learning a little more every day.
 
 *   🌍  I'm based in Paraná/Brasil
 *   ✉️  You can contact me at [diogompantaleao@gmail.com](mailto:diogompantaleao@gmail.com)
@@ -33,7 +35,5 @@ Estou aprendendo codar a um ano e meio. Comecei com JavaScript, HTML, CSS e esto
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/ogoiddev"><img src="https://github-readme-stats.vercel.app/api?username=ogoiddev&show_icons=true&hide=issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ogoiddev's GitHub stats" /></a>
-
-<a href="http://www.github.com/ogoiddev"><img src="https://activity-graph.herokuapp.com/graph?username=ogoiddev&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/ogoiddev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogoiddev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
